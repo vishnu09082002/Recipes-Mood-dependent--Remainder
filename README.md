@@ -14,6 +14,9 @@ Watch the project in action:
 - Categories: Veg, Non-Veg, Soft Drinks, Sweet Items, Fried Food.
 - Mood Picker: Angry, Happy, Sad, Neutral—suggests food based on your vibe.
 - Veg Menu: 13 dishes with images and sticky reminder button.
+- NonVeg Menu: 10 dishes with images and sticky reminder button.
+- SweetItems Menu: 10 dishes with images and sticky reminder button.
+- FriedFood Menu: 10 dishes with images and sticky reminder button.
 - Reminder: Set a time (up to 12 hours) to get notified.
 
 ## Setup

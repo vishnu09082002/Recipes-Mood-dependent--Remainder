@@ -6,7 +6,7 @@ A React-based food menu app with mood-dependent suggestions and reminders.
 
 Watch the project in action:
 
-[Food Explorer Demo Video](https://drive.google.com/drive/home)
+[Food Explorer Live Demo](https://many-recipes.netlify.app/)
 
 
 
